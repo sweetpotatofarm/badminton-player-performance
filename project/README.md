@@ -46,3 +46,17 @@ pip3 install moviepy
 ```sh
 python3 media.py  
 ```
+```sh
+csv file name?
+```
+enter csv file name, ex:
+```sh
+demo.csv
+```
+```sh
+video name?
+```
+enter video name, ex:
+```sh
+demo.mp4
+```
